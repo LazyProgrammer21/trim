@@ -20,7 +20,7 @@
 
 
   $(function(){
-	$("#footer-placeholder").load("footer.html");
+	$("#nav-placeholder").load("navbar.html");
   });
 
   // Scrollax
